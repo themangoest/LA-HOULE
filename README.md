@@ -3,7 +3,7 @@
 
 Mouser cart: https://eu.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=ee024b02ed
 
-Firmware update procedure
+<B>Firmware update procedure</B>
 
 Unplug all CV inputs/outputs from the module. Connect the output of your audio interface/sound card to the FM input. Power on your modular system with LA HOULE mode switch pressed. The 3 LEDs will blink, with a yellow color.
 
@@ -13,7 +13,8 @@ When you are all set, play the firmware update file into the module. The LEDs sh
 
 In case the signal level is inadequate or too high, the procedure will stop and all 3 LEDs will be lit in red. Try adjusting the output level, press the mode button and retry from the start of the update file.
 
-Calibration procedure
+<B>Calibration procedure</B>
+
 To calibrate the unit:
 
 - Disconnect all CV inputs.
@@ -24,7 +25,7 @@ To calibrate the unit:
 - Send a voltage of 3.000V to the V/OCT input.
 - Press any button.
 
-Easter egg
+<B>Easter egg</B>
 
 - Patch dummy cables to the FM and LEVEL inputs to disable the internal normalization.
 
