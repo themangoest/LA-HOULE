@@ -9,3 +9,11 @@ Make sure that no additional sound (such as email notification sounds, backgroun
 When you are all set, play the firmware update file into the module. The LEDs show a cyclic pattern and periodically flash green upon receiving a valid block of data. The unit reboots after the last packet has been received.
 
 In case the signal level is inadequate or too high, the procedure will stop and all 3 LEDs will be lit in red. Try adjusting the output level, press the mode button and retry from the start of the update file.
+
+Easter egg
+
+Patch dummy cables to the FM and LEVEL inputs to disable the internal normalization.
+Press the top button (mode, labelled A in the manual) for one second. All LEDs light up in yellow.
+Press the top button again for one second. All LEDs light up in green.
+Press the bottom button (range, labelled B in the manual) for one second. All LEDs should light up in red.
+An oscilloscope in X-Y mode will show a drawing of a pair of peacocks when visualizing the UNI and BI outputs.
