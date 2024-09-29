@@ -12,8 +12,12 @@ In case the signal level is inadequate or too high, the procedure will stop and 
 
 Easter egg
 
-Patch dummy cables to the FM and LEVEL inputs to disable the internal normalization.
-Press the top button (mode, labelled A in the manual) for one second. All LEDs light up in yellow.
-Press the top button again for one second. All LEDs light up in green.
-Press the bottom button (range, labelled B in the manual) for one second. All LEDs should light up in red.
+- Patch dummy cables to the FM and LEVEL inputs to disable the internal normalization.
+
+- Press the top button (mode, labelled A in the manual) for one second. All LEDs light up in yellow.
+
+- Press the top button again for one second. All LEDs light up in green.
+
+- Press the bottom button (range, labelled B in the manual) for one second. All LEDs should light up in red.
+
 An oscilloscope in X-Y mode will show a drawing of a pair of peacocks when visualizing the UNI and BI outputs.
