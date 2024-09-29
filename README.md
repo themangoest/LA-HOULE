@@ -1,5 +1,7 @@
 # LA-HOULE
-LA HOULE is about additive synthesis and many waves
+<B>LA HOULE is about additive synthesis and many waves.</B> It is the adaption of TIDES in Serge compatible format.
+
+Mouser cart: https://eu.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=ee024b02ed
 
 Firmware update procedure
 
