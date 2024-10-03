@@ -3,9 +3,9 @@
 
 Mouser cart: https://eu.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=ee024b02ed
 
-<B>Firmware update procedure</B>
+<B>Firmware update procedure only after performing the here under calibration!</B>
 
-Unplug all CV inputs/outputs from the module. Connect the output of your audio interface/sound card to the FM input. Power on your modular system with LA HOULE mode switch pressed. The 3 LEDs will blink, with a yellow color.
+Unplug all CV inputs/outputs from the module. Put the FM Switch to EXT FM and connect the output of your audio interface/sound card to the FM input. Power on your modular system with LA HOULE mode switch pressed. The 3 LEDs will blink, with a yellow color.
 
 Make sure that no additional sound (such as email notification sounds, background music etc.) from your computer will be played during the procedure. Make sure that your speakers/monitors are not connected to your audio interface - the noises emitted during the procedure are aggressive and can harm your hearing. On non-studio audio equipment (for example the line output from a Desktop computer), you might have to turn up the gain to the maximum.
 
@@ -25,9 +25,9 @@ To calibrate the unit:
 - Send a voltage of 3.000V to the V/OCT input.
 - Press any button.
 
-<B>Easter egg</B>
+<B>Easter egg</B> Only works with the standard firmware!
 
-- Patch dummy cables to the FM and LEVEL inputs to disable the internal normalization.
+- Put both switches to FM EXT and LEVEL EXT inputs to disable the internal normalization.
 
 - Press the top button (mode, labelled A in the manual) for one second. All LEDs light up in yellow.
 
